@@ -8,3 +8,15 @@
   {
     margin:10px;
   }
+h1
+  {
+    text-align: center;
+  }
+.card-title
+  {
+    text-align:center;
+  }
+.card-footer
+  {
+    text-align: center;
+  }
