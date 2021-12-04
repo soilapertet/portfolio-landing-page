@@ -29,4 +29,6 @@ body
 .card
   {
     background-color: #A5CAD2;
+    border: 3px solid #329D9C;
+    padding: 10px;
   }

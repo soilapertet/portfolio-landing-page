@@ -22,11 +22,14 @@ h1
   {
     text-align:center;
     background-color: #A5CAD2;
+    border: 2px solid #329D9C;
+    padding: 10px;
   }
 .card-footer
   {
     text-align: center;
-    background-image: linear-gradient(to bottom right, #fdfbfb, #ebedee); 
+    background-image: linear-gradient(to bottom right, #fdfbfb, #ebedee);
+    border: 2px solid #329D9C;
   }
 body
   {
