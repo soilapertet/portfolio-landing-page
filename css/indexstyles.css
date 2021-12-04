@@ -5,4 +5,9 @@ img
 .center
 {
   text-align:center;
+  font-size:25px;
 }
+body
+  {
+    font-family: "Patrick Hand", sans-serif;
+  }
