@@ -16,4 +16,9 @@ h2
 .navlist a
   {
     margin: 10px;
+    color: black;
+  }
+.navlist a:hover
+  {
+    color: grey;
   }
