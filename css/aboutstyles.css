@@ -22,3 +22,7 @@ h2
   {
     color: grey;
   }
+body
+  {
+    background-image: url(../images/aesthetic.jpg);
+  }
