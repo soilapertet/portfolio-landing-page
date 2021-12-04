@@ -1,0 +1,10 @@
+.navlist-right
+  {
+    text-align: right;
+    font-size: 20px;
+    margin: 10px;
+  }
+.navlist-right a
+  {
+    margin:10px
+  }
