@@ -18,13 +18,15 @@ h1
   {
     text-align: center;
   }
-.card-title
+.card-body
   {
     text-align:center;
+    background-color: #A5CAD2;
   }
 .card-footer
   {
     text-align: center;
+    background-image: linear-gradient(to bottom right, #fdfbfb, #ebedee); 
   }
 body
   {
