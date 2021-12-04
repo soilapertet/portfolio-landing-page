@@ -7,3 +7,13 @@ h2
   {
     text-align:center;
   }
+.navlist
+  {
+    float: right;
+    font-size: 20px;
+    padding:20px;
+  }
+.navlist a
+  {
+    margin: 10px;
+  }
