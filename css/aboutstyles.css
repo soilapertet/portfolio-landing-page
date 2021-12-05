@@ -1,3 +1,11 @@
+img
+  {
+    float: left;
+    padding:10px;
+    border-radius: 50%;
+    width:20%;
+    height: auto;
+  }
 ul
   {
     display:table;
