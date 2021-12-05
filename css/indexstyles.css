@@ -9,6 +9,7 @@ body
   {
     font-family: "Patrick Hand", sans-serif;
     background-image:url(../images/aesthetic.jpg);
+
   }
 .navlist
   {
@@ -26,8 +27,10 @@ body
   {
     color: grey;
   }
-.center
+.card
   {
-    font-size:25px;
     text-align: center;
+    background-image: linear-gradient(to bottom right, #fdfbfb, #ebedee);
+    border: 2px solid #329D9C;
+    font-size: 25px;
   }
