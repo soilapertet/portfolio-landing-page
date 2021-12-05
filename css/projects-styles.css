@@ -1,3 +1,18 @@
+body
+  {
+    background-image:url(../images/aesthetic.jpg);
+  }
+.card
+  {
+    font-family: "Patrick Hand", sans-serif;
+    font-size: 20px;
+  }
+h1
+  {
+    text-align: center;
+    font-family: "Patrick Hand", sans-serif;
+    font-size: 25px;
+  }
 .navlist-right
   {
     text-align: right;
@@ -9,14 +24,12 @@
   {
     margin:10px;
     color:black;
+    font-family: "Patrick Hand", sans-serif;
+    font-size: 25px;
   }
 .navlist-right a:hover
   {
     color:grey;
-  }
-h1
-  {
-    text-align: center;
   }
 .card-body
   {
@@ -30,8 +43,4 @@ h1
     text-align: center;
     background-image: linear-gradient(to bottom right, #fdfbfb, #ebedee);
     border: 2px solid #329D9C;
-  }
-body
-  {
-    background-image:url(../images/aesthetic.jpg);
   }

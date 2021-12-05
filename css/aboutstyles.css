@@ -18,7 +18,6 @@ h2
 .navlist
   {
     float: right;
-    font-size: 20px;
     padding:20px;
   }
 .navlist a
@@ -32,6 +31,8 @@ h2
   }
 body
   {
+    font-family: "Patrick Hand", sans-serif;
+    font-size: 25px;
     background-image: url(../images/aesthetic.jpg);
   }
 .card
