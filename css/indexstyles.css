@@ -9,6 +9,8 @@ body
   {
     font-family: "Patrick Hand", sans-serif;
     background-image:url(../images/aesthetic.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
 
   }
 .navlist

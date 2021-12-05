@@ -1,6 +1,9 @@
 body
   {
-    background-image:url(../images/aesthetic.jpg);
+/* Stop image from repeating and fill the whole page*/
+    background-image: url(../images/aesthetic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 .navlist-right
   {
